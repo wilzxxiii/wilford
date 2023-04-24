@@ -39,6 +39,7 @@ dependencies:
   webview_flutter: ^4.0.7
   webview_flutter_web: ^0.2.2+1
   firebase_core: ^2.8.0
+ 
   
   
   
